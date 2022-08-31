@@ -9,6 +9,10 @@ div{}
     font-family: marcellus-font;
 }
 
+.Project {
+    background-color: olivedrab;
+}
+
 @font-face {
     font-family: marcellus-font;
     src: url(../fonts/MarcellusSC-Regular.ttf);
